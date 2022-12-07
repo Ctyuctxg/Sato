@@ -1324,7 +1324,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am/انا العزيز ${global.BotName}, a bot developed by: Elgazar to take your WhatsApp usage into next level/روبوت تم تطويره بواسطة: السلطان للانتقال باستخدام واتساب إلى المستوى التالي.
+    Konichiwa ${pushname} dear 👋. I am/انا العزيز ${global.BotName}, a bot developed by: ain to take your WhatsApp usage into next level/روبوت تم تطويره بواسطة: ارمين للانتقال باستخدام واتساب إلى المستوى التالي.
         
        「 System Info 」
     
@@ -1371,7 +1371,7 @@ switch(command) {
     case 'sc': case 'التبرع': case 'sourcecode': {
         if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
-    teks = `*${global.BotName}' سكريبت*\n\n*يوتيوب*: ${global.BotSourceCode}\n\nلا تنسي الاشتراك بقناه اليوتيوب⭐️. `
+    teks = `*${global.BotName}' سكريبت*\n\n*ارمين*: ${global.BotSourceCode}\n\nلا تنسي الصلاة على الحبيب   ⭐️. `
     let buttons = [
     {buttonId: `-menu`, buttonText: {displayText: 'قائمه البوت✨'}, type: 1}
     ]
@@ -1479,12 +1479,11 @@ if (isBanChat) return reply(mess.banChat)
 reply(` لا تنسي الانضمام معنا❤️!
 
 *جروب 1*
-https://chat.whatsapp.com/BTAfDaCPUoRBxFSRjMJ2Hk
 
 *جروب 2*
-https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY
+
 *جروب 3*
-https://chat.whatsapp.com/BTAfDaCPUoRBxFSRjMJ2Hk
+
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
@@ -1498,50 +1497,47 @@ break
 
 case 'support': case 'الدعم':
     
-    reply(`*جروب الدعم:*https://chat.whatsapp.com/FiRwXZoBuSyLlUZBtNAgx8 `)
+    reply(`*جروب الدعم:*https://chat.whatsapp.com/F9xrC1oLE0379Pn3vTTQzn `)
     break
 
 case 'الشرح': case 'الوصف':
     
     reply(`━═━━═✦•⊰۞⊱•✦═━═━━╔*
 
-‏‏ ‏ ‏    ‏‏ ‏ ‏  ‧̍̊˙· 𓆝.°Ȇ̈.n̑̈.ȏ̈.s̑̈༒➊】*
+‏‏ ‏ ‏    ‏‏ ‏ ‏ armin】*
 
 *❃━═━═✦•〘•🔎•〙•✦═━═━❃*
-*❉مساعد ومعلم بوتات☾︎:-*
-*~〖 https://wa.me/967771160204?text=هل%20‏انت%20‏صانع%20‏%20بوتات%20‏%20‏༺%20𒆜ËMPËŖÖŖ%20ÄŅŮŚ➳ᴹᴿ᭄😍 〗~*
+*❉  جروب الدعم الفني☾︎:-*
+*~〖 https://chat.whatsapp.com/F9xrC1oLE0379Pn3vTTQzn 〗~*
 *❃━═━═✦•〘•🔎•〙•✦═━═━❃*
 
-*❉شات مطور بوتات☾︎:-*
-*~〖 https://api.whatsapp.com/send?phone=+967730348571  〗~*
+*❉  رقم المطور الثاني☾︎:-*
+*~〖  01116578749 〗~*
 *❃━═━═✦•〘•🔎•〙•✦═━═━❃*
  ‏
 *❉جروب تعليم بوتات☾︎:-*
 
-*~〖 https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY 〗~*   ‏‏
+*~〖 https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW〗~*   ‏‏
 *❃━═━═✦•〘•🔎•〙•✦═━═━❃*
 
-*❉قناتي على اليوتيوب ☾︎:-*
+*❉  شات البوت ☾︎:-*
 
-*~〖 https://youtu.be/nesSv2Gbh9s 〗~*
+*~〖  〗~*
 *❃━═━═✦•〘•🔎•〙•✦═━═━❃*
 
-*❉حساب على Kwai☾︎:-*
-*~〖 https://kwai-video.com/p/CX7WmO8S 〗~*
+*❉ شات المطور ☾︎:-*
+*~〖 https://wa.me/qr/4NMV7BNSDPQ2G1 〗~*
 *❃━═━═✦•〘•🔎•〙•✦═━═━❃*
-*❉شات صانع مواقع منصات بوت مثبته علي اسمك ماتغير صانع بوتات تحويل اي بوت من انجليزي الي عربي☾︎:-*
-*~〖 https://wa.me/967771160204?text=سلام%20‏%20كيفك%20‏ 〗~*
-*❃━═━═✦•〘•🔎•〙•✦═━═━❃*
-*「مع تحيات ادارة ༺ 𒆜ËMPËŖÖŖ ÄŅŮŚ➳ᴹᴿ᭄」*
+*「مع تحيات ادارة ارمين」*
 
 *❃━═━═✦•〘•🔎•〙•✦═━═━❃*`)
     break
 
-case 'قائمه-الاباحي':
+case 'قائمه-الهبل':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
     if (!AntiNsfw) return reply(mess.nonsfw)
-        reply(` *━━━〈  📛 قائمه الاباحي 📛  〉━━━*\n\nمفيش اباحي ولا حاجه يعم صلي علي النبي في قلبك وسيبك من اللي بتعملو دا🌚❤️`)
+        reply(` *━━━〈  📛 قائمه الهبل 📛  〉━━━*\n\nمفيش هبل ولا حاجه يعم صلي علي النبي في قلبك وسيبك من اللي بتعملو دا🌚❤️`)
     break
 
 case 'reaction': case 'react': case 'reactions': case 'r':
@@ -2830,7 +2826,7 @@ case 'public': case 'عام': {
  if (!isCreator) return reply(mess.owner)
  Miku.public = true
  reply('انا الان عام للجميع!')
- Miku.setStatus(`اهلا بك ☑, انا بوت واتساب عربي لمعرفه الاوامر اكتب -اوامر او -menu مطوري:+201288455338`)
+ Miku.setStatus(`اهلا بك ☑, انا بوت واتساب عربي لمعرفه الاوامر اكتب -اوامر او -menu مطوري:201279251079`)
  }
  break
  
@@ -4835,14 +4831,14 @@ case 'help': case 'القائمه': case 'menu': case 'مساعده': case 'ال
       
  const helpmenu = `مرحبا *${pushname}*,
 
-انا *「⚜️」𒆜ËMPËŖÖŖ ÄŅŮŚ🖤*, 
-تم تطويره بواسطة الامبراطور انوس *.
+انا *「❄️armin❄️」*, 
+تم تطويره بواسطة  المطور ارمين *.
 
 ♠️ لا تنسي تكتب هذه قبل كل امر:  ${prefix}
 
 
 
-https://chat.whatsapp.com/BTAfDaCPUoRBxFSRjMJ2Hk
+https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW
  
 ⋄═──═◞🔰 قائمة العضو 🔰◟━──━⋄
 
@@ -5075,12 +5071,12 @@ https://chat.whatsapp.com/BTAfDaCPUoRBxFSRjMJ2Hk
 
 
 🍁 اهلا بك انا المطور ورقمي اهو 
-https://api.whatsapp.com/send?phone=+967730348571
+https://api.whatsapp.com/send?phone=201279251079
 
 
 
  『  *${global.BotName}*  』
- *تم التطوير بواسطه:انوس*
+ *تم التطوير بواسطه:ارمين*
 `
 
 
@@ -5088,7 +5084,7 @@ https://api.whatsapp.com/send?phone=+967730348571
 
     {buttonId: `-owner`, buttonText: {displayText: 'مطور البوت👤'}, type: 1},
 
-    {buttonId: `-nsfw`, buttonText: {displayText: 'صانع البوت انوس '}, type: 1}
+    {buttonId: `-nsfw`, buttonText: {displayText: 'صانع البوت ارمين '}, type: 1}
 
     ]
                 let buttonMessage = {
@@ -5134,7 +5130,7 @@ case 'Lelouch': case 'Lelouch': case 'Lelouch Lamperouge ':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
 
-const txt = ` انوس يحبك موت🤤/ للتواصل معايا: https://api.whatsapp.com/send?phone=+967730348571 / `
+const txt = `  ارمين / للتواصل معايا: https://api.whatsapp.com/send?phone=201279251079 / `
 const mikuarray= [
             "https://c.tenor.com/SOeIW-QVZvoAAAPo/scared-the-quintessential-quintuplets.mp4",
             "https://c.tenor.com/FDe7lTs0xvMAAAPo/miku-nakano-nakano-miku.mp4",
