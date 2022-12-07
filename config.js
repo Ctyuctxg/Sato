@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['967771160204']
-global.OwnerNumber = ['967730348571']
-global.ownertag = ['967771160204']
-global.BotName = "🖤الامبراطور انوس 🖤"
-global.packname = "「⚜️」𒆜ËMPËŖÖŖ ÄŅŮŚ.🖤]★"
-global.author = "★ 967771160204 ★"
-global.OwnerName = "انوس"
-global.BotSourceCode = "https://youtu.be/nesSv2Gbh9s"
-global.SupportGroupLink = "https://api.whatsapp.com/send?phone=+967730348571"
+global.Owner = ['01279251079']
+global.OwnerNumber = ['01279251079']
+global.ownertag = ['01279251079']
+global.BotName = "🖤المبرمج ارمين🖤"
+global.packname = "「ارمين]★"
+global.author = "★ 01279251079 ★"
+global.OwnerName = "ارمين"
+global.BotSourceCode = "https://wa.me/qr/4NMV7BNSDPQ2G1"
+global.SupportGroupLink = "https://wa.me/qr/4NMV7BNSDPQ2G1"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,7 +27,7 @@ global.location = "Egypt,Egypt"
 global.reactmoji = "🖤"
 global.themeemoji = "✔"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://chat.whatsapp.com/FiRwXZoBuSyLlUZBtNAgx8"
+global.websitex = "https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW"
 global.lolhuman = "KaysaS"
 
 
@@ -70,7 +70,7 @@ global.mess = {
     error: '*ايرور!*',
     banned: '*انت محظور من استخدام البوت اتواصل مع المطور لالغاء حظرك!*',
     bangc: '*تم حظر الجروب ذا من استخدام البوت!*',
-    nonsfw: 'لا تكن منحرفا هذه المجموعه ليست لاباحي!'
+    nonsfw: ' لا تكن اهبل هذه المجموعه ليست للهبل!'
     
 }
 
