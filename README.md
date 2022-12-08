@@ -75,7 +75,7 @@ Here's the Video Tuturial for Deploying and Hosting Sato Bot on Heroku.
           
 
 #### ✧ <a target="_blank" href="https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
-)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
+
 
 #### ✧ `Fork` this repo.
 ####  Scan indirectly from my `repl.it`
