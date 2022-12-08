@@ -74,8 +74,8 @@ Here's the Video Tuturial for Deploying and Hosting Sato Bot on Heroku.
 #### if you can see device not connected error then refresh The qr page and scan again within 15 seconds
           
 
-#### ✧ [![chiku](https://www.koyebdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
-<a target="_blank" href="https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+#### ✧ <a target="_blank" href="https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
 
 #### ✧ `Fork` this repo.
 ####  Scan indirectly from my `repl.it`
