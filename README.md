@@ -74,7 +74,7 @@ Here's the Video Tuturial for Deploying and Hosting Sato Bot on Heroku.
 #### if you can see device not connected error then refresh The qr page and scan again within 15 seconds
           
 
-#### ✧ [![chiku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
+#### ✧ [![chiku](https://www.koyebdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
 
 
 
