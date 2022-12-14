@@ -138,7 +138,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Ayush-pandey-u/Chiku-MD
+git clone https://github.com/Ctyuctxg/Sato
 cd Chiku-MD
 npm i
 npm start
