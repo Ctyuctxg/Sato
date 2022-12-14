@@ -112,7 +112,7 @@ heroku/nodejs
 
 ## ✧✧✧ طريقة نشر CMD
 
-##git clone(https://github.com/Ayush-pandey-u/Chiku-MD.git)
+##git clone(https://github.com/Ctyuctxg/Sato)
 ##cd Miku-MD
 npm i
 
